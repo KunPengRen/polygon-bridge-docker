@@ -117,7 +117,7 @@ MaxTxLifetime = "3h"
 		L2ReorgRetrievalInterval = "5s"
 	[Sequencer.StreamServer]
 		Port = 6900
-		Filename = "/datastreamer/datastream.bin"
+		Filename = "/datastreamer_bridge1/datastream.bin"
 		Enabled = false
 
 [SequenceSender]
